@@ -5,6 +5,7 @@
 </head>
 
 <body>
-  <?php
-  ?>
+<?php
+print 'ようこそ'
+?>
 </body>
